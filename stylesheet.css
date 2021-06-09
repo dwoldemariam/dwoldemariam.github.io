@@ -1,0 +1,11 @@
+.sectionTitle {
+    text-align: left;
+    font-weight: bold;
+}
+body {
+    background-color:#CCCCCC;
+}
+.rightAlignDate {
+    text-align: right;
+    font-weight: bold;
+}
